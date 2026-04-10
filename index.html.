@@ -44,3 +44,18 @@
 
 </body>
 </html>
+<head>
+    <meta charset="UTF-8">
+    <title>Головна</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<head>
+    <meta charset="UTF-8">
+    <title>Контакти</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<h1 class="main-title">...</h1>
+
+<div id="profile-block">...</div>
+
+<img src="..." class="avatar">
